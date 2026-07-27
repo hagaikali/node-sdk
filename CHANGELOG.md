@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.14.0](https://github.com/descope/node-sdk/compare/v2.13.0...v2.14.0) (2026-07-27)
+
+
+### Features
+
+* add templateId parameter to management user create ([#773](https://github.com/descope/node-sdk/issues/773)) ([897fbe0](https://github.com/descope/node-sdk/commit/897fbe0af54167ea33716ff154ec06a5b8ce3083))
+
 ## [2.13.0](https://github.com/descope/node-sdk/compare/v2.12.1...v2.13.0) (2026-07-15)
 
 
